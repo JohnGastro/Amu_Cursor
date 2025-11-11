@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_11_11/ペルソナ像_深掘り仕様.md",
+                "file": "ペルソナまわり/chatgptとの差分_質問事項.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ペルソナ像_深掘り仕様"
+              "title": "chatgptとの差分_質問事項"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025_11_11/ペルソナ像_深掘り仕様.md",
+                "file": "ペルソナまわり/chatgptとの差分_質問事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ペルソナ像_深掘り仕様へのバックリンク"
+              "title": "chatgptとの差分_質問事項へのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025_11_11/ペルソナ像_深掘り仕様.md",
+                "file": "ペルソナまわり/chatgptとの差分_質問事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ペルソナ像_深掘り仕様からのアウトゴーイングリンク"
+              "title": "chatgptとの差分_質問事項からのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025_11_11/ペルソナ像_深掘り仕様.md",
+                "file": "ペルソナまわり/chatgptとの差分_質問事項.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ペルソナ像_深掘り仕様のアウトライン"
+              "title": "chatgptとの差分_質問事項のアウトライン"
             }
           }
         ]
@@ -171,14 +171,44 @@
   },
   "active": "688edfb54ce95ad1",
   "lastOpenFiles": [
-    "2025_11_11/現在のペルソナ像_詳細.md",
+    "ペルソナまわり/ペルソナFinal.md",
+    "ペルソナまわり/インタビューv3.md",
+    "ペルソナまわり/インタビューv2",
+    "ペルソナまわり/インタビューv2.md",
+    "ペルソナまわり/ペルソナ_最終版.md",
+    "2025_11_11/ペルソナ解像度向上_アイデア出し.md",
+    "ペルソナまわり/chatgptとの差分_質問事項.md",
+    "ペルソナまわり/gemini_憑依インタビュー.md",
+    "ペルソナまわり/chatgpt_憑依.md",
+    "ペルソナまわり/憑依インタビュー.md",
+    "ペルソナまわり/憑依い.md",
+    "2025_11_11/主要顧客層.md",
+    "ペルソナまわり",
+    "Images/テック系」のレディース人気ファッションコーディネート - WEAR.jpg",
+    "Images/テック系」のレディース人気ファッションコーディネート - WEAR 1.jpg",
+    "Images/テックファッション」のレディース人気ファッションコーディネート - WEAR.jpg",
+    "Images/テックファッション」のレディース人気ファッションコーディネート - WEAR 1.jpg",
+    "Images/テックウェアはダサい？メンズ•レディースのおしゃれなコーデ8選！.jpg",
+    "Images/テックウェアはダサい？メンズ•レディースのおしゃれなコーデ8選！ 1.jpg",
+    "Images/@nobiases on ig.jpg",
+    "Images/@nobiases on ig 1.jpg",
+    "Images",
+    "テック系」のレディース人気ファッションコーディネート - WEAR 1.jpg",
+    "テックウェアはダサい？メンズ•レディースのおしゃれなコーデ8選！ 1.jpg",
+    "2025_11_11/ペルソナ解像度向上_取り入れ判断TODO.md",
+    "2025_11_11/ペルソナ議論の時系列まとめ.md",
     "2025_11_11/ペルソナ議論の要点まとめ.md",
     "2025_11_11/ペルソナ像_深掘り仕様.md",
-    "2025_11_11/主要顧客層_元ファイル.md",
-    "2025_11_11/ペルソナ議論の時系列まとめ.md",
-    "2025_11_11/README.md",
+    "2025_11_11/現在のペルソナ像_詳細.md",
+    "Tasks/11_11_定例で話すこと.md",
+    "Tasks/memo_2025_11_04.md",
+    "Tasks/tasklist_2025_10_31.md",
     "Tasks/tasklist_2025_10_31_まとめ.md",
+    "Source/別府北浜ホテル キックオフmtg - 2025_08_06 12_52 JST - Gemini によるメモ.pdf",
     "Latest_info.md",
+    "README.md",
+    "2025_11_11/主要顧客層_元ファイル.md",
+    "2025_11_11/README.md",
     "Source/amu定例 - 2025_08_26 19_14 JST - Gemini によるメモ.pdf",
     "主要顧客層.md"
   ]
